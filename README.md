@@ -14,9 +14,9 @@
 - 😉 Self-motivated and proactive
 
 ## My hobbies
--📖 Read
--📚 Learning new technologies and frameworks
--🧩 Playing scape rooms
+- 📖 Read
+- 📚 Learning new technologies and frameworks
+- 🧩 Playing scape rooms
 
 ## Contact me
 <div id="social" align="center">
