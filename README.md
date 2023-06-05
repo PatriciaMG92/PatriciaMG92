@@ -18,5 +18,8 @@
 📚 Learning new technologies and frameworks
 🧩 Playing scape rooms
 
-## My Tech stak
-![Html badge](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png) ![CSS badge](https://th.bing.com/th/id/OIP.pXrq6xy_Gxua3qTfGZLXqwHaKc?pid=ImgDet&rs=1) ![Bootstrap badge](https://th.bing.com/th/id/OIP.vEYQQipBpnJK30tZzyxlCwHaDT?pid=ImgDet&rs=1)
+## Contact me
+<div id="social" align="center">
+  <a href="https://www.linkedin.com/in/patricia-mu%C3%B1oz-gonz%C3%A1lez-7032b4197/" target="_blank" data-description="LinkedIn" data-fontawesome-unicode-icon="f08c" data-color="#0a66c2"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+  <a href="mailto:patricia.mg1310@gmail.com" target="_blank" data-description="Mail" data-fontawesome-unicode-icon="f08c" data-color="#0a66c2"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:raquelmartinc@gmail.com" alt="Gmail" target="_blank"></a>
+</div> 
