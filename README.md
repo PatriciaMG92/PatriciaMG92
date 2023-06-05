@@ -4,14 +4,14 @@
 -Hi! I´m a full stack developer eager to continue learning and developing my skills in this area. I would love to be able to participate in projects aimed at improving people's health, taking advantage of my past experience in the health field, but I would welcome any opportunity to continue growing as a web and mobile development and learn about AI.
 
 ## My values
--👌 Strong problem-solving abilities
--🔊 Excellent communication skills
--🔎 Adaptable and open to learning new technologies and frameworks
--🎨 Attentive to details
--⏱️ Good time management
--🫱🏻 Collaborative team player
--👩🏻‍🎓 Continuous learner and eager to stay updated
--😉 Self-motivated and proactive
+- 👌 Strong problem-solving abilities
+- 🔊 Excellent communication skills
+- 🔎 Adaptable and open to learning new technologies and frameworks
+- 🎨 Attentive to details
+- ⏱️ Good time management
+- 🫱🏻 Collaborative team player
+- 👩🏻‍🎓 Continuous learner and eager to stay updated
+- 😉 Self-motivated and proactive
 
 ## My hobbies
 -📖 Read
