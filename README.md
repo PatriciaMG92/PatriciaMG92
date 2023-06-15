@@ -2,7 +2,8 @@
 ## About me 👩🏻
 
 -Hi! I´m a full stack developer eager to continue learning and developing my skills in this area. I would love to be able to participate in projects aimed at improving people's health, taking advantage of my past experience in the health field, but I would welcome any opportunity to continue growing as a web and mobile development and learn about AI.
-
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,bootstrap,git,mysql,flask,postman,vscode)](https://skillicons.dev)
 ## My values
 - 👌 Strong problem-solving abilities
 - 🔊 Excellent communication skills
